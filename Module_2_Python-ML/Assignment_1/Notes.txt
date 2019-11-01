@@ -1,0 +1,5 @@
+Notes
+git status - tells you the status of your git
+naming branches - first inital "EM-assignment1"
+git branch
+git checkout "name of branch"
