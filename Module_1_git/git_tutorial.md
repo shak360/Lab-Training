@@ -1,0 +1,13 @@
+Some BASH commands:
+
+`cd <directory name>` - change directories to the directory you've indicated
+
+
+
+git status - tells you the status of your git
+naming branches - first inital "EM-assignment1"
+git branch
+git checkout "name of branch" (doesn't save changes --> untrack file)
+git add -A (adds all)
+git commit -m "helpful description"
+git push
