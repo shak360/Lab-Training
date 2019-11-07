@@ -10,8 +10,10 @@ Git commands (don't forget to remove the angle brackets and replacing what is in
 
 - `git status` - gives you the status of your current git tracked repository and files
 Use this to check what branch you're on, what files needed to be tracked, commited, and pushed.
+
 This _won't_ tell you if you need to `git pull` a branch to update your repository.
 - `git branch <name of new branch>` - create a new branch with the name as entered in angle brackets
+
 Your branch name should follow the pattern `sv-<purpose>` where you should have a one or two word phrase in `camelCase` describing the changes you plan to make.
 - `git checkout <name of branch>`
 - `git add -A` 
