@@ -14,7 +14,7 @@ Use this to check what branch you're on, what files needed to be tracked, commit
 
 - `git branch <name of new branch>` - create a new branch with the name as entered in angle brackets
 
-Your branch name should follow the pattern `sv-<purpose>` where you should have a one or two word phrase in `camelCase` describing the changes you plan to make.
+Your branch name should follow the pattern `<first initial><last initial>-<purpose>` where you should have a one or two word phrase in `camelCase` describing the changes you plan to make. Try to avoid spaces in branch names (and in naming anything in general). Use underscores (`snake_case`) or `camelCase` wherever you can.
 
 - `git checkout <name of branch>`
 
